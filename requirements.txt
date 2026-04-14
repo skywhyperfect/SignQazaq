@@ -1,0 +1,9 @@
+# SignQazaq Pro — зависимости
+# Установка: pip install -r requirements.txt
+#
+# MediaPipe совместим с Python 3.8-3.12 (НЕ 3.13+)
+# Рекомендуется использовать Python 3.11
+
+mediapipe==0.10.33
+opencv-python==4.13.0.92
+numpy>=1.24,<3.0
